@@ -2,9 +2,12 @@
 
 > A Vue.js project
 
+[链接](https://hsiangleev.github.io/game-vue-puzzle/index.html)
+
 ## Build Setup
 
 ``` bash
+// 先修改index文件地址
 # install dependencies
 npm install
 
