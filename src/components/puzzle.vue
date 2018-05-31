@@ -76,9 +76,6 @@
                 return this.initData.imgUrl.length;         // 关卡总数
             }
         },
-        mounted() {
-            
-        },
         methods: {
             loadImg(src) {
                 var promise=new Promise((resolve,reject)=>{

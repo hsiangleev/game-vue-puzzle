@@ -1,9 +1,6 @@
 <template>
 	<div id="app">
 		<puzzle :initData="initData"></puzzle>
-		<!-- <div class="img">
-			
-		</div> -->
 	</div>
 </template>
 
@@ -23,11 +20,6 @@ export default {
 	components: {
 		puzzle
 	},
-	methods: {
-		move() {
-
-		}
-	}
 }
 </script>
 
