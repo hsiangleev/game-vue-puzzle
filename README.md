@@ -1,8 +1,8 @@
 # vue-puzzle
 
-> A Vue.js project
+> 图片拼图游戏，提取整个文件到单个组件puzzle.vue
 
-[链接](https://hsiangleev.github.io/game-vue-puzzle/index.html)
+[试玩链接](https://hsiangleev.github.io/game-vue-puzzle/index.html)
 
 ## Build Setup
 
