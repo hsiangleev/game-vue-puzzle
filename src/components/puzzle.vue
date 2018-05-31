@@ -280,6 +280,7 @@
                 }
             },
             touchDown() {
+                event.preventDefault();
                 this.down(event.touches[0].clientX,event.touches[0].clientY);
             },
             touchUp() {
